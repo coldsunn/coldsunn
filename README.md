@@ -1,7 +1,8 @@
-## Hi there 👋
+## 이찬해 (Lee Chan-hae)
 
+### 안녕하세요👋
 <!--
-**coldsunn/coldsunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=coldsunn&show_icons=true&hide_border=true)](https://github.com/coldsunn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldsunn&layout=compact)](https://github.com/coldsunn)
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-3DDC84?style=flat&logo=SpringBoot&logoColor=white"/>
