@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=coldsunn&show_icons=true&hide_border=true)](https://github.com/coldsunn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldsunn&layout=compact)](https://github.com/coldsunn)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-3DDC84?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-3DDC84?style=flat&logo=SpringBoot&logoColor=white"/>
