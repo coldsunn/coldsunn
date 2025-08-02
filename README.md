@@ -1,6 +1,6 @@
 ## 이찬해 (Lee Chan-hae)
 
-### "JUST DO IT"
+### "JUST DO IT!"
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
